@@ -1,0 +1,9 @@
+https://jaehernandez.github.io/21st-century-lit/
+
+1. Open Command Prompt
+2. cd /d d:
+3. cd Jaelle's\Grade 11\21st Century Lit Website
+4. Everytime may gusto ka ilagay sa site:
+  git add .
+  git commit -m "Insert message here"
+  git push
